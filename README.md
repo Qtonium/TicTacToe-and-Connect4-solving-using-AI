@@ -51,3 +51,9 @@ To run the code in these notebooks, open them in a Jupyter Notebook environment 
 
 Please refer to the individual notebook files for more details on the implementation and usage of each game strategy.
 
+![Image 1](https://github.com/Qtonium/TicTacToe-and-Connect4-solving-using-AI/blob/main/images/AI2-02.png)
+![Image 2](https://github.com/Qtonium/TicTacToe-and-Connect4-solving-using-AI/blob/main/images/AI2-03.png)
+![Image 3](https://github.com/Qtonium/TicTacToe-and-Connect4-solving-using-AI/blob/main/images/AI2-04.png)
+![Image 4](https://github.com/Qtonium/TicTacToe-and-Connect4-solving-using-AI/blob/main/images/AI2-05.png)
+![Image 5](https://github.com/Qtonium/TicTacToe-and-Connect4-solving-using-AI/blob/main/images/AI2-06.png)
+
