@@ -1,0 +1,19 @@
+The link of the video is = https://drive.google.com/file/d/1WsBADKmYUQlIH3RuweLyHEijf4wFn-Ur/view?usp=sharing
+
+I tried to compress video but the quality was not that good so i uploaded it to Trinity account google drive.
+
+
+I am writing the file name and their corresponding function and how to generate output. All these files are jupyter notebook. The output is there in jupyter notebook if you want to verify but if you want to run it you can run it in. 
+
+1. Tic_Tac_Toe_MinMax.ipynb - There is a class that implements tic tac toe minmax. There are multiple blocks which are set to different depths and different players(Who plays first). In every block if i is set to 0, then depth parameter can set the depth of the minmax. 
+
+2. Tic_Tac_Toe_QL.ipynb - There is a class that implements tic tac toe Qlearning. There is a run function which takes game parameter and j. Setting it to 0 or 1 will change who plays first.
+
+3. Connect4_MinMax.ipynb - There is Connect4 class which implements the minmax. There is a run function which takes j (Who plays first by setting 0 or 1), depth (depth of the minmax), itera (Total number of games to be played). 
+
+4. Connect4_QL.ipynb - The run function will run the code rest are just helper functions. j parameter will choose who will plays first and itera is total number of episodes.
+
+5. Tic_Tac_Toe_MinMaxvsQL.ipynb - The file implements Tic Tac Toe Minmax vs Qlearning. The run function will run the program run. jj parameter is who plays first, itera is total number of games played, ddd is the depth of minmax, display can be set to 1 to display more results.
+
+6. Connect4_MinMaxvsQl.ipynb - The run function takes j (who plays first) and itera is total number of games played.
+
